@@ -27,7 +27,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-700 mb-8 max-w-4xl mx-auto leading-relaxed">
-            Get Comet by Perplexity — and receive <span className="font-semibold text-primary">₹16,000 worth of AI subscription</span>, 
+            Get Comet Ai Browser — and receive <span className="font-semibold text-primary">₹16,000 worth of AI subscription</span>, 
             <span className="font-semibold text-primary"> $100 Azure credits</span>, stylish T-shirt, backpack & water bottle — 
             <span className="font-semibold"> limited-time bonus</span>
           </p>
