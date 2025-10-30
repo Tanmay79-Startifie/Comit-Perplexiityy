@@ -6,10 +6,6 @@ const FAQ = () => {
 
   const faqs = [
     {
-      question: 'Is this offer official from Comet or Perplexity?',
-      answer: 'No, this is an independent promotion by Tanmay. The referral link is legitimate and leads to the official Comet Browser, but the freebies are provided personally by Tanmay, not by Comet or Perplexity.',
-    },
-    {
       question: 'How do I get my freebies?',
       answer: 'Simply fill out the form on this page, download Comet Browser using the referral link, and you\'ll be contacted with instructions to claim your rewards. Digital rewards (subscriptions, credits) are delivered first, followed by physical items.',
     },
@@ -82,17 +78,7 @@ const FAQ = () => {
           ))}
         </div>
 
-        <div className="mt-12 text-center">
-          <p className="text-gray-600 mb-4">
-            Still have questions?
-          </p>
-          <a
-            href="mailto:YOUR_EMAIL@example.com"
-            className="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
-          >
-            Contact Tanmay directly →
-          </a>
-        </div>
+        
       </div>
     </section>
   );

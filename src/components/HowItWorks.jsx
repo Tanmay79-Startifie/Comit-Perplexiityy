@@ -30,7 +30,7 @@ const HowItWorks = () => {
     {
       icon: Download,
       title: 'Download Comet via Referral',
-      description: 'Download and install Comet Browser In Your Pc Via Link. Signup With Your Email',
+      description: 'Download and install Comet Browser In Your Pc Via Link. Signup With Your Email Or Student Email(Preferred)',
       color: 'from-indigo-500 to-indigo-600',
     },
     {

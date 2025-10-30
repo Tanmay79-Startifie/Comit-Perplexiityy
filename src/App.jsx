@@ -21,7 +21,7 @@ function App() {
       <Hero />
       <HowItWorks />
       <Freebies />
-      <Disclaimer />
+    
       <FormSection />
       <FAQ />
       <Footer />

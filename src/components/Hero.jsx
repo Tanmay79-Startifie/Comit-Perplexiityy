@@ -22,14 +22,14 @@ const Hero = () => {
       <div className="relative z-10 max-w-6xl mx-auto px-6 py-20 text-center">
         <div className="animate-slide-up">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-            Download <span className="text-primary bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-800">Comet Browser</span> via Referral
+            Download <span className="text-primary bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-800">Comit Browser</span> via Referral
             <br />& Claim Freebies!
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-700 mb-8 max-w-4xl mx-auto leading-relaxed">
             Get Comet by Perplexity — and receive <span className="font-semibold text-primary">₹16,000 worth of AI subscription</span>, 
             <span className="font-semibold text-primary"> $100 Azure credits</span>, stylish T-shirt, backpack & water bottle — 
-            <span className="font-semibold"> limited-time bonus from Tanmay!</span>
+            <span className="font-semibold"> limited-time bonus</span>
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mt-12">

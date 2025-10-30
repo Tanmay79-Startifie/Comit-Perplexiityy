@@ -119,7 +119,7 @@ const Freebies = () => {
         <div className="mt-12 text-center">
           <div className="inline-block bg-gradient-to-r from-blue-50 to-purple-50 rounded-2xl p-6 border-2 border-blue-200">
             <p className="text-lg text-gray-700">
-              <span className="font-semibold text-primary">🎁 Bonus:</span> All rewards are personally curated and fulfilled by Tanmay
+              <span className="font-semibold text-primary">🎁 Bonus:</span> All rewards are personally curated and fulfilled by Comit
             </p>
           </div>
         </div>
