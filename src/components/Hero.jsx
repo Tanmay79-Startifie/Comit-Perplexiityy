@@ -22,7 +22,7 @@ const Hero = () => {
       <div className="relative z-10 max-w-6xl mx-auto px-6 py-20 text-center">
         <div className="animate-slide-up">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-            Download <span className="text-primary bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-800">Comit Browser</span> via Referral
+            Download <span className="text-primary bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-800">Comet Browser</span> via Referral
             <br />& Claim Freebies!
           </h1>
           
